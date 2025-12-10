@@ -1,0 +1,20 @@
+{
+  "id": "reference/citations",
+  "title": "Citations and References",
+  "description": "This page contains all the verified citations used throughout the Physical AI & Humanoid Robotics Technical Book, organized by module and type. The book maintains strict technical accuracy standards with a minimum of 25 verified sources, with at least 40% from academic or peer-reviewed sources.",
+  "source": "@site/docs/reference/citations.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/citations",
+  "permalink": "/physical-ai-book/reference/citations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/reference/citations.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Glossary of Robotics and AI Terms",
+    "permalink": "/physical-ai-book/reference/glossary"
+  }
+}

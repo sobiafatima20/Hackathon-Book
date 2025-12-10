@@ -1,0 +1,27 @@
+{
+  "id": "modules/ai-robot-brain/navigation-stack",
+  "title": "Navigation Stack",
+  "description": "This page covers the implementation of the navigation stack for the humanoid robot using Nav2.",
+  "source": "@site/docs/modules/ai-robot-brain/navigation-stack.md",
+  "sourceDirName": "modules/ai-robot-brain",
+  "slug": "/modules/ai-robot-brain/navigation-stack",
+  "permalink": "/physical-ai-book/modules/ai-robot-brain/navigation-stack",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ai-robot-brain/navigation-stack.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Navigation Stack",
+    "title": "Navigation Stack"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VSLAM Implementation",
+    "permalink": "/physical-ai-book/modules/ai-robot-brain/vslam-implementation"
+  },
+  "next": {
+    "title": "References",
+    "permalink": "/physical-ai-book/modules/ai-robot-brain/references"
+  }
+}

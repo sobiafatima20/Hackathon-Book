@@ -1,0 +1,27 @@
+{
+  "id": "modules/ai-robot-brain/perception-pipeline",
+  "title": "Perception Pipeline",
+  "description": "This page covers the implementation of the perception pipeline using NVIDIA Isaac Sim.",
+  "source": "@site/docs/modules/ai-robot-brain/perception-pipeline.md",
+  "sourceDirName": "modules/ai-robot-brain",
+  "slug": "/modules/ai-robot-brain/perception-pipeline",
+  "permalink": "/physical-ai-book/modules/ai-robot-brain/perception-pipeline",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ai-robot-brain/perception-pipeline.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Perception Pipeline",
+    "title": "Perception Pipeline"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac Setup",
+    "permalink": "/physical-ai-book/modules/ai-robot-brain/isaac-setup"
+  },
+  "next": {
+    "title": "VSLAM Implementation",
+    "permalink": "/physical-ai-book/modules/ai-robot-brain/vslam-implementation"
+  }
+}

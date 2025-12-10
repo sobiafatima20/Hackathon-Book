@@ -1,0 +1,27 @@
+{
+  "id": "modules/ros2-nervous-system/labs/lab3-urdf-humanoid",
+  "title": "Lab 3 - URDF Humanoid",
+  "description": "This lab covers creating a URDF model for the humanoid robot.",
+  "source": "@site/docs/modules/ros2-nervous-system/labs/lab3-urdf-humanoid.md",
+  "sourceDirName": "modules/ros2-nervous-system/labs",
+  "slug": "/modules/ros2-nervous-system/labs/lab3-urdf-humanoid",
+  "permalink": "/physical-ai-book/modules/ros2-nervous-system/labs/lab3-urdf-humanoid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ros2-nervous-system/labs/lab3-urdf-humanoid.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Lab 3: URDF Humanoid",
+    "title": "Lab 3 - URDF Humanoid"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lab 2: Communication",
+    "permalink": "/physical-ai-book/modules/ros2-nervous-system/labs/lab2-communication"
+  },
+  "next": {
+    "title": "Lab 4: AI Agent",
+    "permalink": "/physical-ai-book/modules/ros2-nervous-system/labs/lab4-ai-agent"
+  }
+}

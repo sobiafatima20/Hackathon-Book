@@ -1,0 +1,27 @@
+{
+  "id": "modules/ai-robot-brain/vslam-implementation",
+  "title": "VSLAM Implementation",
+  "description": "This page covers the Visual Simultaneous Localization and Mapping implementation in Isaac Sim.",
+  "source": "@site/docs/modules/ai-robot-brain/vslam-implementation.md",
+  "sourceDirName": "modules/ai-robot-brain",
+  "slug": "/modules/ai-robot-brain/vslam-implementation",
+  "permalink": "/physical-ai-book/modules/ai-robot-brain/vslam-implementation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ai-robot-brain/vslam-implementation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "VSLAM Implementation",
+    "title": "VSLAM Implementation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Perception Pipeline",
+    "permalink": "/physical-ai-book/modules/ai-robot-brain/perception-pipeline"
+  },
+  "next": {
+    "title": "Navigation Stack",
+    "permalink": "/physical-ai-book/modules/ai-robot-brain/navigation-stack"
+  }
+}

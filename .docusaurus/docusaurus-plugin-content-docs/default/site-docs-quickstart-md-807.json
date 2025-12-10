@@ -1,0 +1,15 @@
+{
+  "id": "quickstart",
+  "title": "Quickstart Guide: Physical AI & Humanoid Robotics Technical Book",
+  "description": "Overview",
+  "source": "@site/docs/quickstart.md",
+  "sourceDirName": ".",
+  "slug": "/quickstart",
+  "permalink": "/physical-ai-book/quickstart",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/quickstart.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

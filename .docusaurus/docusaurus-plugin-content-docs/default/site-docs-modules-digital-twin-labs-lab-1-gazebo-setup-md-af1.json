@@ -1,0 +1,24 @@
+{
+  "id": "modules/digital-twin/labs/lab1-gazebo-setup",
+  "title": "Lab 1: Gazebo Environment Setup",
+  "description": "Overview",
+  "source": "@site/docs/modules/digital-twin/labs/lab1-gazebo-setup.md",
+  "sourceDirName": "modules/digital-twin/labs",
+  "slug": "/modules/digital-twin/labs/lab1-gazebo-setup",
+  "permalink": "/physical-ai-book/modules/digital-twin/labs/lab1-gazebo-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/digital-twin/labs/lab1-gazebo-setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 2 References: Digital Twin (Gazebo + Unity)",
+    "permalink": "/physical-ai-book/modules/digital-twin/references"
+  },
+  "next": {
+    "title": "Lab 2: Sensor Configuration",
+    "permalink": "/physical-ai-book/modules/digital-twin/labs/lab2-sensor-config"
+  }
+}

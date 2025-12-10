@@ -1,0 +1,199 @@
+{
+  "/physical-ai-book/-461": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/physical-ai-book/-fb1": {
+    "__comp": "a7bd4aaa",
+    "__props": "30b20a37"
+  },
+  "/physical-ai-book/-b53": {
+    "__comp": "a94703ab"
+  },
+  "/physical-ai-book/modules/ai-robot-brain/-bf7": {
+    "__comp": "17896441",
+    "content": "02d5ffe3"
+  },
+  "/physical-ai-book/modules/ai-robot-brain/isaac-setup-602": {
+    "__comp": "17896441",
+    "content": "74370caf"
+  },
+  "/physical-ai-book/modules/ai-robot-brain/labs/lab1-isaac-setup-acd": {
+    "__comp": "17896441",
+    "content": "960da408"
+  },
+  "/physical-ai-book/modules/ai-robot-brain/labs/lab2-synthetic-data-da8": {
+    "__comp": "17896441",
+    "content": "a6b5683c"
+  },
+  "/physical-ai-book/modules/ai-robot-brain/labs/lab3-vslam-094": {
+    "__comp": "17896441",
+    "content": "082cdb86"
+  },
+  "/physical-ai-book/modules/ai-robot-brain/labs/lab4-nav2-planner-746": {
+    "__comp": "17896441",
+    "content": "379ba2b6"
+  },
+  "/physical-ai-book/modules/ai-robot-brain/labs/lab5-sim-to-real-5c4": {
+    "__comp": "17896441",
+    "content": "cd1c2468"
+  },
+  "/physical-ai-book/modules/ai-robot-brain/navigation-stack-b59": {
+    "__comp": "17896441",
+    "content": "7107cee5"
+  },
+  "/physical-ai-book/modules/ai-robot-brain/perception-pipeline-c81": {
+    "__comp": "17896441",
+    "content": "6446be27"
+  },
+  "/physical-ai-book/modules/ai-robot-brain/references-9e8": {
+    "__comp": "17896441",
+    "content": "aa7fcd92"
+  },
+  "/physical-ai-book/modules/ai-robot-brain/vslam-implementation-469": {
+    "__comp": "17896441",
+    "content": "597f077a"
+  },
+  "/physical-ai-book/modules/digital-twin/-07c": {
+    "__comp": "17896441",
+    "content": "1cf9e5f5"
+  },
+  "/physical-ai-book/modules/digital-twin/gazebo-setup-9ff": {
+    "__comp": "17896441",
+    "content": "311b694c"
+  },
+  "/physical-ai-book/modules/digital-twin/labs/lab1-gazebo-setup-8ee": {
+    "__comp": "17896441",
+    "content": "af154d23"
+  },
+  "/physical-ai-book/modules/digital-twin/labs/lab2-sensor-config-b5d": {
+    "__comp": "17896441",
+    "content": "6fd90fbd"
+  },
+  "/physical-ai-book/modules/digital-twin/labs/lab3-ros2-sync-5d5": {
+    "__comp": "17896441",
+    "content": "3e76b7c4"
+  },
+  "/physical-ai-book/modules/digital-twin/labs/lab4-unity-vis-d7c": {
+    "__comp": "17896441",
+    "content": "d580d18c"
+  },
+  "/physical-ai-book/modules/digital-twin/references-1cd": {
+    "__comp": "17896441",
+    "content": "3c7ad853"
+  },
+  "/physical-ai-book/modules/digital-twin/ros2-sync-033": {
+    "__comp": "17896441",
+    "content": "167e21b7"
+  },
+  "/physical-ai-book/modules/digital-twin/sensor-simulation-d24": {
+    "__comp": "17896441",
+    "content": "206d7740"
+  },
+  "/physical-ai-book/modules/digital-twin/unity-integration-108": {
+    "__comp": "17896441",
+    "content": "9449eb31"
+  },
+  "/physical-ai-book/modules/ros2-nervous-system/-08f": {
+    "__comp": "17896441",
+    "content": "5fd63c42"
+  },
+  "/physical-ai-book/modules/ros2-nervous-system/ai-integration-5db": {
+    "__comp": "17896441",
+    "content": "10cf7daa"
+  },
+  "/physical-ai-book/modules/ros2-nervous-system/architecture-f8a": {
+    "__comp": "17896441",
+    "content": "2e0163a9"
+  },
+  "/physical-ai-book/modules/ros2-nervous-system/labs/lab1-workspace-setup-988": {
+    "__comp": "17896441",
+    "content": "fc6e85e8"
+  },
+  "/physical-ai-book/modules/ros2-nervous-system/labs/lab2-communication-ffd": {
+    "__comp": "17896441",
+    "content": "118b12bf"
+  },
+  "/physical-ai-book/modules/ros2-nervous-system/labs/lab3-urdf-humanoid-6a2": {
+    "__comp": "17896441",
+    "content": "bed5204e"
+  },
+  "/physical-ai-book/modules/ros2-nervous-system/labs/lab4-ai-agent-d05": {
+    "__comp": "17896441",
+    "content": "2d1b1482"
+  },
+  "/physical-ai-book/modules/ros2-nervous-system/nodes-topics-c89": {
+    "__comp": "17896441",
+    "content": "94a930de"
+  },
+  "/physical-ai-book/modules/ros2-nervous-system/references-9c7": {
+    "__comp": "17896441",
+    "content": "9f71c9b7"
+  },
+  "/physical-ai-book/modules/ros2-nervous-system/urdf-modeling-3f4": {
+    "__comp": "17896441",
+    "content": "6d2b5387"
+  },
+  "/physical-ai-book/modules/vla-system/-8d3": {
+    "__comp": "17896441",
+    "content": "bf92cd46"
+  },
+  "/physical-ai-book/modules/vla-system/action-planning-e1d": {
+    "__comp": "17896441",
+    "content": "11c5d57f"
+  },
+  "/physical-ai-book/modules/vla-system/asr-integration-03a": {
+    "__comp": "17896441",
+    "content": "50da8e01"
+  },
+  "/physical-ai-book/modules/vla-system/labs/lab1-asr-setup-f3c": {
+    "__comp": "17896441",
+    "content": "5af130e5"
+  },
+  "/physical-ai-book/modules/vla-system/labs/lab2-llm-integration-7be": {
+    "__comp": "17896441",
+    "content": "facf5b36"
+  },
+  "/physical-ai-book/modules/vla-system/labs/lab3-action-execution-a9e": {
+    "__comp": "17896441",
+    "content": "a8aa1246"
+  },
+  "/physical-ai-book/modules/vla-system/labs/lab4-vision-integration-917": {
+    "__comp": "17896441",
+    "content": "6e731822"
+  },
+  "/physical-ai-book/modules/vla-system/labs/lab5-vla-integration-4cf": {
+    "__comp": "17896441",
+    "content": "7ed0189f"
+  },
+  "/physical-ai-book/modules/vla-system/llm-ros-bridge-2a0": {
+    "__comp": "17896441",
+    "content": "f74222bf"
+  },
+  "/physical-ai-book/modules/vla-system/multimodal-perception-c94": {
+    "__comp": "17896441",
+    "content": "95f842bc"
+  },
+  "/physical-ai-book/modules/vla-system/references-87a": {
+    "__comp": "17896441",
+    "content": "7c8ef09e"
+  },
+  "/physical-ai-book/quickstart-4ee": {
+    "__comp": "17896441",
+    "content": "8070e160"
+  },
+  "/physical-ai-book/reference/citations-98b": {
+    "__comp": "17896441",
+    "content": "082ca29e"
+  },
+  "/physical-ai-book/reference/glossary-626": {
+    "__comp": "17896441",
+    "content": "846656e5"
+  },
+  "/physical-ai-book/-66b": {
+    "__comp": "17896441",
+    "content": "c377a04b"
+  }
+}

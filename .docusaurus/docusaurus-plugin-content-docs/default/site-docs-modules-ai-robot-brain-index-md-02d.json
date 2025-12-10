@@ -1,0 +1,24 @@
+{
+  "id": "modules/ai-robot-brain/index",
+  "title": "Module 3: AI-Robot Brain (NVIDIA Isaac)",
+  "description": "Overview",
+  "source": "@site/docs/modules/ai-robot-brain/index.md",
+  "sourceDirName": "modules/ai-robot-brain",
+  "slug": "/modules/ai-robot-brain/",
+  "permalink": "/physical-ai-book/modules/ai-robot-brain/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ai-robot-brain/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lab 4: Unity Visualization",
+    "permalink": "/physical-ai-book/modules/digital-twin/labs/lab4-unity-vis"
+  },
+  "next": {
+    "title": "Isaac Setup",
+    "permalink": "/physical-ai-book/modules/ai-robot-brain/isaac-setup"
+  }
+}

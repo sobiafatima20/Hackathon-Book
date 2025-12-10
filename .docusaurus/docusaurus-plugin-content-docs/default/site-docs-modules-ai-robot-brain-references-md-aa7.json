@@ -1,0 +1,27 @@
+{
+  "id": "modules/ai-robot-brain/references",
+  "title": "References",
+  "description": "This page contains references and citations for the AI-Robot Brain module.",
+  "source": "@site/docs/modules/ai-robot-brain/references.md",
+  "sourceDirName": "modules/ai-robot-brain",
+  "slug": "/modules/ai-robot-brain/references",
+  "permalink": "/physical-ai-book/modules/ai-robot-brain/references",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ai-robot-brain/references.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "References",
+    "title": "References"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Navigation Stack",
+    "permalink": "/physical-ai-book/modules/ai-robot-brain/navigation-stack"
+  },
+  "next": {
+    "title": "Lab 1: Isaac Setup",
+    "permalink": "/physical-ai-book/modules/ai-robot-brain/labs/lab1-isaac-setup"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "modules/digital-twin/gazebo-setup",
+  "title": "Gazebo Setup and Configuration",
+  "description": "Overview",
+  "source": "@site/docs/modules/digital-twin/gazebo-setup.md",
+  "sourceDirName": "modules/digital-twin",
+  "slug": "/modules/digital-twin/gazebo-setup",
+  "permalink": "/physical-ai-book/modules/digital-twin/gazebo-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/digital-twin/gazebo-setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 2: Digital Twin (Gazebo + Unity)",
+    "permalink": "/physical-ai-book/modules/digital-twin/"
+  },
+  "next": {
+    "title": "Unity Integration for Visualization",
+    "permalink": "/physical-ai-book/modules/digital-twin/unity-integration"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "modules/vla-system/labs/lab3-action-execution",
+  "title": "Lab 3 - Action Execution",
+  "description": "This lab covers executing actions based on language understanding in the VLA system.",
+  "source": "@site/docs/modules/vla-system/labs/lab3-action-execution.md",
+  "sourceDirName": "modules/vla-system/labs",
+  "slug": "/modules/vla-system/labs/lab3-action-execution",
+  "permalink": "/physical-ai-book/modules/vla-system/labs/lab3-action-execution",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/vla-system/labs/lab3-action-execution.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Lab 3: Action Execution",
+    "title": "Lab 3 - Action Execution"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lab 2: LLM Integration",
+    "permalink": "/physical-ai-book/modules/vla-system/labs/lab2-llm-integration"
+  },
+  "next": {
+    "title": "Lab 4: Vision Integration",
+    "permalink": "/physical-ai-book/modules/vla-system/labs/lab4-vision-integration"
+  }
+}

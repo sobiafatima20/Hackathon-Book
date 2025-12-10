@@ -1,0 +1,27 @@
+{
+  "id": "modules/digital-twin/labs/lab3-ros2-sync",
+  "title": "Lab 3 - ROS 2 Synchronization",
+  "description": "This lab covers synchronizing the digital twin with ROS 2 systems.",
+  "source": "@site/docs/modules/digital-twin/labs/lab3-ros2-sync.md",
+  "sourceDirName": "modules/digital-twin/labs",
+  "slug": "/modules/digital-twin/labs/lab3-ros2-sync",
+  "permalink": "/physical-ai-book/modules/digital-twin/labs/lab3-ros2-sync",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/digital-twin/labs/lab3-ros2-sync.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Lab 3: ROS 2 Synchronization",
+    "title": "Lab 3 - ROS 2 Synchronization"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lab 2: Sensor Configuration",
+    "permalink": "/physical-ai-book/modules/digital-twin/labs/lab2-sensor-config"
+  },
+  "next": {
+    "title": "Lab 4: Unity Visualization",
+    "permalink": "/physical-ai-book/modules/digital-twin/labs/lab4-unity-vis"
+  }
+}

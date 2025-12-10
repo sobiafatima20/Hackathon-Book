@@ -1,0 +1,27 @@
+{
+  "id": "modules/ai-robot-brain/labs/lab4-nav2-planner",
+  "title": "Lab 4 - Nav2 Planner",
+  "description": "This lab covers implementing navigation planning with Nav2 for the humanoid robot.",
+  "source": "@site/docs/modules/ai-robot-brain/labs/lab4-nav2-planner.md",
+  "sourceDirName": "modules/ai-robot-brain/labs",
+  "slug": "/modules/ai-robot-brain/labs/lab4-nav2-planner",
+  "permalink": "/physical-ai-book/modules/ai-robot-brain/labs/lab4-nav2-planner",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ai-robot-brain/labs/lab4-nav2-planner.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Lab 4: Nav2 Planner",
+    "title": "Lab 4 - Nav2 Planner"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lab 3: VSLAM",
+    "permalink": "/physical-ai-book/modules/ai-robot-brain/labs/lab3-vslam"
+  },
+  "next": {
+    "title": "Lab 5: Sim-to-Real",
+    "permalink": "/physical-ai-book/modules/ai-robot-brain/labs/lab5-sim-to-real"
+  }
+}

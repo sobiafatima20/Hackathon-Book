@@ -1,0 +1,24 @@
+{
+  "id": "modules/ros2-nervous-system/references",
+  "title": "Module 1 References: ROS 2 Robotic Nervous System",
+  "description": "Academic and Peer-Reviewed Sources",
+  "source": "@site/docs/modules/ros2-nervous-system/references.md",
+  "sourceDirName": "modules/ros2-nervous-system",
+  "slug": "/modules/ros2-nervous-system/references",
+  "permalink": "/physical-ai-book/modules/ros2-nervous-system/references",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ros2-nervous-system/references.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AI Integration with ROS 2",
+    "permalink": "/physical-ai-book/modules/ros2-nervous-system/ai-integration"
+  },
+  "next": {
+    "title": "Lab 1: ROS 2 Workspace Setup",
+    "permalink": "/physical-ai-book/modules/ros2-nervous-system/labs/lab1-workspace-setup"
+  }
+}

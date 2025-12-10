@@ -1,0 +1,46 @@
+# Python dependencies for Physical AI & Humanoid Robotics Technical Book
+
+# ROS 2 Python client library
+rclpy>=3.0.0
+
+# Scientific computing
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Visualization and plotting
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Computer vision
+opencv-python>=4.5.0
+Pillow>=8.3.0
+
+# Data processing
+pandas>=1.4.0
+yaml>=0.2.5
+
+# AI/ML libraries
+torch>=1.12.0
+torchvision>=0.13.0
+transformers>=4.20.0
+openai-whisper>=2023.1.0
+
+# Audio processing for ASR
+librosa>=0.9.0
+soundfile>=0.10.0
+
+# Communication and networking
+requests>=2.28.0
+websockets>=10.0
+
+# Testing and validation
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Documentation and utilities
+sphinx>=4.5.0
+sphinx-rtd-theme>=1.0.0
+jupyter>=1.0.0
+
+# ROS 2 related
+ros2cli>=0.15.0

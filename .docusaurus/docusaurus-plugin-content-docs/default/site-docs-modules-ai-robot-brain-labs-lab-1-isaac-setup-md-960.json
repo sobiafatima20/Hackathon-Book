@@ -1,0 +1,27 @@
+{
+  "id": "modules/ai-robot-brain/labs/lab1-isaac-setup",
+  "title": "Lab 1 - Isaac Setup",
+  "description": "This lab covers setting up NVIDIA Isaac Sim for the AI-Robot Brain module.",
+  "source": "@site/docs/modules/ai-robot-brain/labs/lab1-isaac-setup.md",
+  "sourceDirName": "modules/ai-robot-brain/labs",
+  "slug": "/modules/ai-robot-brain/labs/lab1-isaac-setup",
+  "permalink": "/physical-ai-book/modules/ai-robot-brain/labs/lab1-isaac-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ai-robot-brain/labs/lab1-isaac-setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Lab 1: Isaac Setup",
+    "title": "Lab 1 - Isaac Setup"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "References",
+    "permalink": "/physical-ai-book/modules/ai-robot-brain/references"
+  },
+  "next": {
+    "title": "Lab 2: Synthetic Data",
+    "permalink": "/physical-ai-book/modules/ai-robot-brain/labs/lab2-synthetic-data"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "modules/digital-twin/sensor-simulation",
+  "title": "Sensor Simulation in Gazebo",
+  "description": "Overview",
+  "source": "@site/docs/modules/digital-twin/sensor-simulation.md",
+  "sourceDirName": "modules/digital-twin",
+  "slug": "/modules/digital-twin/sensor-simulation",
+  "permalink": "/physical-ai-book/modules/digital-twin/sensor-simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/digital-twin/sensor-simulation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unity Integration for Visualization",
+    "permalink": "/physical-ai-book/modules/digital-twin/unity-integration"
+  },
+  "next": {
+    "title": "ROS 2 Synchronization",
+    "permalink": "/physical-ai-book/modules/digital-twin/ros2-sync"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "reference/glossary",
+  "title": "Glossary of Robotics and AI Terms",
+  "description": "This glossary provides definitions for key terms used throughout the Physical AI & Humanoid Robotics Technical Book.",
+  "source": "@site/docs/reference/glossary.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/glossary",
+  "permalink": "/physical-ai-book/reference/glossary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/reference/glossary.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lab 5: VLA Integration",
+    "permalink": "/physical-ai-book/modules/vla-system/labs/lab5-vla-integration"
+  },
+  "next": {
+    "title": "Citations and References",
+    "permalink": "/physical-ai-book/reference/citations"
+  }
+}

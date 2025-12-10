@@ -1,0 +1,22 @@
+{
+  "id": "index",
+  "title": "Physical AI & Humanoid Robotics Technical Book",
+  "description": "Welcome to the comprehensive educational resource for students, early-career engineers, and developers transitioning from digital AI to physical robotics.",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/physical-ai-book/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Module 1: ROS 2 Robotic Nervous System",
+    "permalink": "/physical-ai-book/modules/ros2-nervous-system/"
+  }
+}
