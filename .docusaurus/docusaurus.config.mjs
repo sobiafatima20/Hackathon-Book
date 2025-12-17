@@ -44,7 +44,7 @@ export default {
         "docs": {
           "sidebarPath": "./sidebars.js",
           "routeBasePath": "/",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/sobiafatima20/Hackathon-Book/edit/main/"
         },
         "blog": false,
         "theme": {
