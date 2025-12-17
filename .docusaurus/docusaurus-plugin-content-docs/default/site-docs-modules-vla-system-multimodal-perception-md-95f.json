@@ -5,7 +5,7 @@
   "source": "@site/docs/modules/vla-system/multimodal-perception.md",
   "sourceDirName": "modules/vla-system",
   "slug": "/modules/vla-system/multimodal-perception",
-  "permalink": "/physical-ai-book/modules/vla-system/multimodal-perception",
+  "permalink": "/Hackathon-Book/modules/vla-system/multimodal-perception",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/vla-system/multimodal-perception.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Action Planning",
-    "permalink": "/physical-ai-book/modules/vla-system/action-planning"
+    "permalink": "/Hackathon-Book/modules/vla-system/action-planning"
   },
   "next": {
     "title": "References",
-    "permalink": "/physical-ai-book/modules/vla-system/references"
+    "permalink": "/Hackathon-Book/modules/vla-system/references"
   }
 }

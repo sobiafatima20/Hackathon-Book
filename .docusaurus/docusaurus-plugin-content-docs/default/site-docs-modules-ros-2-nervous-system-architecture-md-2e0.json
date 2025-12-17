@@ -5,7 +5,7 @@
   "source": "@site/docs/modules/ros2-nervous-system/architecture.md",
   "sourceDirName": "modules/ros2-nervous-system",
   "slug": "/modules/ros2-nervous-system/architecture",
-  "permalink": "/physical-ai-book/modules/ros2-nervous-system/architecture",
+  "permalink": "/Hackathon-Book/modules/ros2-nervous-system/architecture",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ros2-nervous-system/architecture.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Module 1: ROS 2 Robotic Nervous System",
-    "permalink": "/physical-ai-book/modules/ros2-nervous-system/"
+    "permalink": "/Hackathon-Book/modules/ros2-nervous-system/"
   },
   "next": {
     "title": "Nodes and Topics Communication",
-    "permalink": "/physical-ai-book/modules/ros2-nervous-system/nodes-topics"
+    "permalink": "/Hackathon-Book/modules/ros2-nervous-system/nodes-topics"
   }
 }

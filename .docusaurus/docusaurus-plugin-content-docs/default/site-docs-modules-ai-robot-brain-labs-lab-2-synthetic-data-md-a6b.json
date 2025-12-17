@@ -5,7 +5,7 @@
   "source": "@site/docs/modules/ai-robot-brain/labs/lab2-synthetic-data.md",
   "sourceDirName": "modules/ai-robot-brain/labs",
   "slug": "/modules/ai-robot-brain/labs/lab2-synthetic-data",
-  "permalink": "/physical-ai-book/modules/ai-robot-brain/labs/lab2-synthetic-data",
+  "permalink": "/Hackathon-Book/modules/ai-robot-brain/labs/lab2-synthetic-data",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ai-robot-brain/labs/lab2-synthetic-data.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Lab 1: Isaac Setup",
-    "permalink": "/physical-ai-book/modules/ai-robot-brain/labs/lab1-isaac-setup"
+    "permalink": "/Hackathon-Book/modules/ai-robot-brain/labs/lab1-isaac-setup"
   },
   "next": {
     "title": "Lab 3: VSLAM",
-    "permalink": "/physical-ai-book/modules/ai-robot-brain/labs/lab3-vslam"
+    "permalink": "/Hackathon-Book/modules/ai-robot-brain/labs/lab3-vslam"
   }
 }

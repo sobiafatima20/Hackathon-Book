@@ -7,10 +7,10 @@ export default {
   "title": "Physical AI & Humanoid Robotics Technical Book",
   "tagline": "A comprehensive educational resource for students, early-career engineers, and developers transitioning from digital AI to physical robotics",
   "favicon": "img/favicon.ico",
-  "url": "https://your-org.github.io",
-  "baseUrl": "/physical-ai-book/",
-  "organizationName": "your-org",
-  "projectName": "physical-ai-book",
+  "url": "https://sobiafatima20.github.io",
+  "baseUrl": "/Hackathon-Book/",
+  "organizationName": "sobiafatima20",
+  "projectName": "Hackathon-Book",
   "onBrokenLinks": "throw",
   "markdown": {
     "mermaid": false,
@@ -60,7 +60,7 @@ export default {
       "logo": {
         "alt": "Physical AI Book Logo",
         "src": "img/logo.svg",
-        "href": "/physical-ai-book/",
+        "href": "/Hackathon-Book/",
         "target": "_self"
       },
       "items": [
@@ -77,7 +77,7 @@ export default {
           "label": "Modules"
         },
         {
-          "href": "https://github.com/your-org/physical-ai-book",
+          "href": "https://github.com/sobiafatima20/Hackathon-Book",
           "label": "GitHub",
           "position": "right"
         }
@@ -126,7 +126,7 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/your-org/physical-ai-book"
+              "href": "https://github.com/sobiafatima20/Hackathon-Book"
             }
           ]
         }

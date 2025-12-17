@@ -5,7 +5,7 @@
   "source": "@site/docs/modules/digital-twin/labs/lab2-sensor-config.md",
   "sourceDirName": "modules/digital-twin/labs",
   "slug": "/modules/digital-twin/labs/lab2-sensor-config",
-  "permalink": "/physical-ai-book/modules/digital-twin/labs/lab2-sensor-config",
+  "permalink": "/Hackathon-Book/modules/digital-twin/labs/lab2-sensor-config",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/digital-twin/labs/lab2-sensor-config.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Lab 1: Gazebo Environment Setup",
-    "permalink": "/physical-ai-book/modules/digital-twin/labs/lab1-gazebo-setup"
+    "permalink": "/Hackathon-Book/modules/digital-twin/labs/lab1-gazebo-setup"
   },
   "next": {
     "title": "Lab 3: ROS 2 Synchronization",
-    "permalink": "/physical-ai-book/modules/digital-twin/labs/lab3-ros2-sync"
+    "permalink": "/Hackathon-Book/modules/digital-twin/labs/lab3-ros2-sync"
   }
 }

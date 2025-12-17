@@ -5,7 +5,7 @@
   "source": "@site/docs/modules/ros2-nervous-system/index.md",
   "sourceDirName": "modules/ros2-nervous-system",
   "slug": "/modules/ros2-nervous-system/",
-  "permalink": "/physical-ai-book/modules/ros2-nervous-system/",
+  "permalink": "/Hackathon-Book/modules/ros2-nervous-system/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ros2-nervous-system/index.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Physical AI & Humanoid Robotics Technical Book",
-    "permalink": "/physical-ai-book/"
+    "permalink": "/Hackathon-Book/"
   },
   "next": {
     "title": "ROS 2 Architecture and Concepts",
-    "permalink": "/physical-ai-book/modules/ros2-nervous-system/architecture"
+    "permalink": "/Hackathon-Book/modules/ros2-nervous-system/architecture"
   }
 }
