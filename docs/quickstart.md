@@ -226,7 +226,7 @@ python3 validate_solution.py
 - Examine the logs in the `logs/` directory
 
 ## Next Steps
-1. Start with [Module 1: ROS 2 Robotic Nervous System](./modules/ros2-nervous-system/)
+1. Start with [Module 1: ROS 2 Robotic Nervous System](/modules/ros2-nervous-system/)
 2. Complete the learning objectives for each module
 3. Execute the reproducible lab exercises
 4. Validate your understanding with the assessment tools

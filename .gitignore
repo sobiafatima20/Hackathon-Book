@@ -5,6 +5,7 @@ dist/
 docs/api/
 docs/assets/
 docs/static/
+.docusaurus/
 
 # Node.js
 node_modules/
