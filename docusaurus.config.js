@@ -9,15 +9,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-org.github.io',
+  url: 'https://sobiafatima20.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/physical-ai-book/',
+  baseUrl: '/Hackathon-Book/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'your-org', // Usually your GitHub org/user name.
-  projectName: 'physical-ai-book', // Usually your repo name.
+  organizationName: 'sobiafatima20', // Usually your GitHub org/user name.
+  projectName: 'Hackathon-Book', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   markdown: {
@@ -72,7 +72,7 @@ const config = {
         logo: {
           alt: 'Physical AI Book Logo',
           src: 'img/logo.svg',
-          href: '/physical-ai-book/',  // Link logo to base URL
+          href: '/Hackathon-Book/',  // Link logo to base URL
           target: '_self',
         },
         items: [
@@ -89,7 +89,7 @@ const config = {
             label: 'Modules',
           },
           {
-            href: 'https://github.com/your-org/physical-ai-book',
+            href: 'https://github.com/sobiafatima20/Hackathon-Book',
             label: 'GitHub',
             position: 'right',
           },
@@ -138,7 +138,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/your-org/physical-ai-book',
+                href: 'https://github.com/sobiafatima20/Hackathon-Book',
               },
             ],
           },
