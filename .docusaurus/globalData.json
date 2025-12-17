@@ -1,242 +1,242 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/physical-ai-book/",
+      "path": "/Hackathon-Book/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/physical-ai-book/",
+          "path": "/Hackathon-Book/",
           "mainDocId": "index",
           "docs": [
             {
               "id": "index",
-              "path": "/physical-ai-book/",
+              "path": "/Hackathon-Book/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ai-robot-brain/index",
-              "path": "/physical-ai-book/modules/ai-robot-brain/",
+              "path": "/Hackathon-Book/modules/ai-robot-brain/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ai-robot-brain/isaac-setup",
-              "path": "/physical-ai-book/modules/ai-robot-brain/isaac-setup",
+              "path": "/Hackathon-Book/modules/ai-robot-brain/isaac-setup",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ai-robot-brain/labs/lab1-isaac-setup",
-              "path": "/physical-ai-book/modules/ai-robot-brain/labs/lab1-isaac-setup",
+              "path": "/Hackathon-Book/modules/ai-robot-brain/labs/lab1-isaac-setup",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ai-robot-brain/labs/lab2-synthetic-data",
-              "path": "/physical-ai-book/modules/ai-robot-brain/labs/lab2-synthetic-data",
+              "path": "/Hackathon-Book/modules/ai-robot-brain/labs/lab2-synthetic-data",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ai-robot-brain/labs/lab3-vslam",
-              "path": "/physical-ai-book/modules/ai-robot-brain/labs/lab3-vslam",
+              "path": "/Hackathon-Book/modules/ai-robot-brain/labs/lab3-vslam",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ai-robot-brain/labs/lab4-nav2-planner",
-              "path": "/physical-ai-book/modules/ai-robot-brain/labs/lab4-nav2-planner",
+              "path": "/Hackathon-Book/modules/ai-robot-brain/labs/lab4-nav2-planner",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ai-robot-brain/labs/lab5-sim-to-real",
-              "path": "/physical-ai-book/modules/ai-robot-brain/labs/lab5-sim-to-real",
+              "path": "/Hackathon-Book/modules/ai-robot-brain/labs/lab5-sim-to-real",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ai-robot-brain/navigation-stack",
-              "path": "/physical-ai-book/modules/ai-robot-brain/navigation-stack",
+              "path": "/Hackathon-Book/modules/ai-robot-brain/navigation-stack",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ai-robot-brain/perception-pipeline",
-              "path": "/physical-ai-book/modules/ai-robot-brain/perception-pipeline",
+              "path": "/Hackathon-Book/modules/ai-robot-brain/perception-pipeline",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ai-robot-brain/references",
-              "path": "/physical-ai-book/modules/ai-robot-brain/references",
+              "path": "/Hackathon-Book/modules/ai-robot-brain/references",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ai-robot-brain/vslam-implementation",
-              "path": "/physical-ai-book/modules/ai-robot-brain/vslam-implementation",
+              "path": "/Hackathon-Book/modules/ai-robot-brain/vslam-implementation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/digital-twin/gazebo-setup",
-              "path": "/physical-ai-book/modules/digital-twin/gazebo-setup",
+              "path": "/Hackathon-Book/modules/digital-twin/gazebo-setup",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/digital-twin/index",
-              "path": "/physical-ai-book/modules/digital-twin/",
+              "path": "/Hackathon-Book/modules/digital-twin/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/digital-twin/labs/lab1-gazebo-setup",
-              "path": "/physical-ai-book/modules/digital-twin/labs/lab1-gazebo-setup",
+              "path": "/Hackathon-Book/modules/digital-twin/labs/lab1-gazebo-setup",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/digital-twin/labs/lab2-sensor-config",
-              "path": "/physical-ai-book/modules/digital-twin/labs/lab2-sensor-config",
+              "path": "/Hackathon-Book/modules/digital-twin/labs/lab2-sensor-config",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/digital-twin/labs/lab3-ros2-sync",
-              "path": "/physical-ai-book/modules/digital-twin/labs/lab3-ros2-sync",
+              "path": "/Hackathon-Book/modules/digital-twin/labs/lab3-ros2-sync",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/digital-twin/labs/lab4-unity-vis",
-              "path": "/physical-ai-book/modules/digital-twin/labs/lab4-unity-vis",
+              "path": "/Hackathon-Book/modules/digital-twin/labs/lab4-unity-vis",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/digital-twin/references",
-              "path": "/physical-ai-book/modules/digital-twin/references",
+              "path": "/Hackathon-Book/modules/digital-twin/references",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/digital-twin/ros2-sync",
-              "path": "/physical-ai-book/modules/digital-twin/ros2-sync",
+              "path": "/Hackathon-Book/modules/digital-twin/ros2-sync",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/digital-twin/sensor-simulation",
-              "path": "/physical-ai-book/modules/digital-twin/sensor-simulation",
+              "path": "/Hackathon-Book/modules/digital-twin/sensor-simulation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/digital-twin/unity-integration",
-              "path": "/physical-ai-book/modules/digital-twin/unity-integration",
+              "path": "/Hackathon-Book/modules/digital-twin/unity-integration",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ros2-nervous-system/ai-integration",
-              "path": "/physical-ai-book/modules/ros2-nervous-system/ai-integration",
+              "path": "/Hackathon-Book/modules/ros2-nervous-system/ai-integration",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ros2-nervous-system/architecture",
-              "path": "/physical-ai-book/modules/ros2-nervous-system/architecture",
+              "path": "/Hackathon-Book/modules/ros2-nervous-system/architecture",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ros2-nervous-system/index",
-              "path": "/physical-ai-book/modules/ros2-nervous-system/",
+              "path": "/Hackathon-Book/modules/ros2-nervous-system/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ros2-nervous-system/labs/lab1-workspace-setup",
-              "path": "/physical-ai-book/modules/ros2-nervous-system/labs/lab1-workspace-setup",
+              "path": "/Hackathon-Book/modules/ros2-nervous-system/labs/lab1-workspace-setup",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ros2-nervous-system/labs/lab2-communication",
-              "path": "/physical-ai-book/modules/ros2-nervous-system/labs/lab2-communication",
+              "path": "/Hackathon-Book/modules/ros2-nervous-system/labs/lab2-communication",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ros2-nervous-system/labs/lab3-urdf-humanoid",
-              "path": "/physical-ai-book/modules/ros2-nervous-system/labs/lab3-urdf-humanoid",
+              "path": "/Hackathon-Book/modules/ros2-nervous-system/labs/lab3-urdf-humanoid",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ros2-nervous-system/labs/lab4-ai-agent",
-              "path": "/physical-ai-book/modules/ros2-nervous-system/labs/lab4-ai-agent",
+              "path": "/Hackathon-Book/modules/ros2-nervous-system/labs/lab4-ai-agent",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ros2-nervous-system/nodes-topics",
-              "path": "/physical-ai-book/modules/ros2-nervous-system/nodes-topics",
+              "path": "/Hackathon-Book/modules/ros2-nervous-system/nodes-topics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ros2-nervous-system/references",
-              "path": "/physical-ai-book/modules/ros2-nervous-system/references",
+              "path": "/Hackathon-Book/modules/ros2-nervous-system/references",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/ros2-nervous-system/urdf-modeling",
-              "path": "/physical-ai-book/modules/ros2-nervous-system/urdf-modeling",
+              "path": "/Hackathon-Book/modules/ros2-nervous-system/urdf-modeling",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/vla-system/action-planning",
-              "path": "/physical-ai-book/modules/vla-system/action-planning",
+              "path": "/Hackathon-Book/modules/vla-system/action-planning",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/vla-system/asr-integration",
-              "path": "/physical-ai-book/modules/vla-system/asr-integration",
+              "path": "/Hackathon-Book/modules/vla-system/asr-integration",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/vla-system/index",
-              "path": "/physical-ai-book/modules/vla-system/",
+              "path": "/Hackathon-Book/modules/vla-system/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/vla-system/labs/lab1-asr-setup",
-              "path": "/physical-ai-book/modules/vla-system/labs/lab1-asr-setup",
+              "path": "/Hackathon-Book/modules/vla-system/labs/lab1-asr-setup",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/vla-system/labs/lab2-llm-integration",
-              "path": "/physical-ai-book/modules/vla-system/labs/lab2-llm-integration",
+              "path": "/Hackathon-Book/modules/vla-system/labs/lab2-llm-integration",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/vla-system/labs/lab3-action-execution",
-              "path": "/physical-ai-book/modules/vla-system/labs/lab3-action-execution",
+              "path": "/Hackathon-Book/modules/vla-system/labs/lab3-action-execution",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/vla-system/labs/lab4-vision-integration",
-              "path": "/physical-ai-book/modules/vla-system/labs/lab4-vision-integration",
+              "path": "/Hackathon-Book/modules/vla-system/labs/lab4-vision-integration",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/vla-system/labs/lab5-vla-integration",
-              "path": "/physical-ai-book/modules/vla-system/labs/lab5-vla-integration",
+              "path": "/Hackathon-Book/modules/vla-system/labs/lab5-vla-integration",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/vla-system/llm-ros-bridge",
-              "path": "/physical-ai-book/modules/vla-system/llm-ros-bridge",
+              "path": "/Hackathon-Book/modules/vla-system/llm-ros-bridge",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/vla-system/multimodal-perception",
-              "path": "/physical-ai-book/modules/vla-system/multimodal-perception",
+              "path": "/Hackathon-Book/modules/vla-system/multimodal-perception",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "modules/vla-system/references",
-              "path": "/physical-ai-book/modules/vla-system/references",
+              "path": "/Hackathon-Book/modules/vla-system/references",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "quickstart",
-              "path": "/physical-ai-book/quickstart"
+              "path": "/Hackathon-Book/quickstart"
             },
             {
               "id": "reference/citations",
-              "path": "/physical-ai-book/reference/citations",
+              "path": "/Hackathon-Book/reference/citations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "reference/glossary",
-              "path": "/physical-ai-book/reference/glossary",
+              "path": "/Hackathon-Book/reference/glossary",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -244,7 +244,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/physical-ai-book/",
+                "path": "/Hackathon-Book/",
                 "label": "index"
               }
             }

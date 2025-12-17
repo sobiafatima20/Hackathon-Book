@@ -5,7 +5,7 @@
   "source": "@site/docs/modules/ai-robot-brain/vslam-implementation.md",
   "sourceDirName": "modules/ai-robot-brain",
   "slug": "/modules/ai-robot-brain/vslam-implementation",
-  "permalink": "/physical-ai-book/modules/ai-robot-brain/vslam-implementation",
+  "permalink": "/Hackathon-Book/modules/ai-robot-brain/vslam-implementation",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ai-robot-brain/vslam-implementation.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Perception Pipeline",
-    "permalink": "/physical-ai-book/modules/ai-robot-brain/perception-pipeline"
+    "permalink": "/Hackathon-Book/modules/ai-robot-brain/perception-pipeline"
   },
   "next": {
     "title": "Navigation Stack",
-    "permalink": "/physical-ai-book/modules/ai-robot-brain/navigation-stack"
+    "permalink": "/Hackathon-Book/modules/ai-robot-brain/navigation-stack"
   }
 }

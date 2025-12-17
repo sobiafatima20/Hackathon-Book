@@ -22,8 +22,8 @@ This technical book provides hands-on learning experiences with:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-org/physical-ai-book.git
-cd physical-ai-book
+git clone https://github.com/sobiafatima20/Hackathon-Book.git
+cd Hackathon-Book
 ```
 
 2. Install Node.js dependencies:

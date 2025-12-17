@@ -5,7 +5,7 @@
   "source": "@site/docs/modules/digital-twin/unity-integration.md",
   "sourceDirName": "modules/digital-twin",
   "slug": "/modules/digital-twin/unity-integration",
-  "permalink": "/physical-ai-book/modules/digital-twin/unity-integration",
+  "permalink": "/Hackathon-Book/modules/digital-twin/unity-integration",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/digital-twin/unity-integration.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Gazebo Setup and Configuration",
-    "permalink": "/physical-ai-book/modules/digital-twin/gazebo-setup"
+    "permalink": "/Hackathon-Book/modules/digital-twin/gazebo-setup"
   },
   "next": {
     "title": "Sensor Simulation in Gazebo",
-    "permalink": "/physical-ai-book/modules/digital-twin/sensor-simulation"
+    "permalink": "/Hackathon-Book/modules/digital-twin/sensor-simulation"
   }
 }

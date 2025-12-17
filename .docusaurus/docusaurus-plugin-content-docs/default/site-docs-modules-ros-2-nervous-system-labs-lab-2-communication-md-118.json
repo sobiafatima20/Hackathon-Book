@@ -5,7 +5,7 @@
   "source": "@site/docs/modules/ros2-nervous-system/labs/lab2-communication.md",
   "sourceDirName": "modules/ros2-nervous-system/labs",
   "slug": "/modules/ros2-nervous-system/labs/lab2-communication",
-  "permalink": "/physical-ai-book/modules/ros2-nervous-system/labs/lab2-communication",
+  "permalink": "/Hackathon-Book/modules/ros2-nervous-system/labs/lab2-communication",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ros2-nervous-system/labs/lab2-communication.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Lab 1: ROS 2 Workspace Setup",
-    "permalink": "/physical-ai-book/modules/ros2-nervous-system/labs/lab1-workspace-setup"
+    "permalink": "/Hackathon-Book/modules/ros2-nervous-system/labs/lab1-workspace-setup"
   },
   "next": {
     "title": "Lab 3: URDF Humanoid",
-    "permalink": "/physical-ai-book/modules/ros2-nervous-system/labs/lab3-urdf-humanoid"
+    "permalink": "/Hackathon-Book/modules/ros2-nervous-system/labs/lab3-urdf-humanoid"
   }
 }

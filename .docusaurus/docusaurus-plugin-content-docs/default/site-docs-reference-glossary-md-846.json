@@ -5,7 +5,7 @@
   "source": "@site/docs/reference/glossary.md",
   "sourceDirName": "reference",
   "slug": "/reference/glossary",
-  "permalink": "/physical-ai-book/reference/glossary",
+  "permalink": "/Hackathon-Book/reference/glossary",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/reference/glossary.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Lab 5: VLA Integration",
-    "permalink": "/physical-ai-book/modules/vla-system/labs/lab5-vla-integration"
+    "permalink": "/Hackathon-Book/modules/vla-system/labs/lab5-vla-integration"
   },
   "next": {
     "title": "Citations and References",
-    "permalink": "/physical-ai-book/reference/citations"
+    "permalink": "/Hackathon-Book/reference/citations"
   }
 }

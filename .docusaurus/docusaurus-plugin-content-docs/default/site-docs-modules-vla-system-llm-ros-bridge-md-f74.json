@@ -5,7 +5,7 @@
   "source": "@site/docs/modules/vla-system/llm-ros-bridge.md",
   "sourceDirName": "modules/vla-system",
   "slug": "/modules/vla-system/llm-ros-bridge",
-  "permalink": "/physical-ai-book/modules/vla-system/llm-ros-bridge",
+  "permalink": "/Hackathon-Book/modules/vla-system/llm-ros-bridge",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/vla-system/llm-ros-bridge.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "ASR Integration",
-    "permalink": "/physical-ai-book/modules/vla-system/asr-integration"
+    "permalink": "/Hackathon-Book/modules/vla-system/asr-integration"
   },
   "next": {
     "title": "Action Planning",
-    "permalink": "/physical-ai-book/modules/vla-system/action-planning"
+    "permalink": "/Hackathon-Book/modules/vla-system/action-planning"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/modules/digital-twin/labs/lab1-gazebo-setup.md",
   "sourceDirName": "modules/digital-twin/labs",
   "slug": "/modules/digital-twin/labs/lab1-gazebo-setup",
-  "permalink": "/physical-ai-book/modules/digital-twin/labs/lab1-gazebo-setup",
+  "permalink": "/Hackathon-Book/modules/digital-twin/labs/lab1-gazebo-setup",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/digital-twin/labs/lab1-gazebo-setup.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Module 2 References: Digital Twin (Gazebo + Unity)",
-    "permalink": "/physical-ai-book/modules/digital-twin/references"
+    "permalink": "/Hackathon-Book/modules/digital-twin/references"
   },
   "next": {
     "title": "Lab 2: Sensor Configuration",
-    "permalink": "/physical-ai-book/modules/digital-twin/labs/lab2-sensor-config"
+    "permalink": "/Hackathon-Book/modules/digital-twin/labs/lab2-sensor-config"
   }
 }
