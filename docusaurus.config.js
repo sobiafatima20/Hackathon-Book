@@ -72,7 +72,7 @@ const config = {
         logo: {
           alt: 'Physical AI Book Logo',
           src: 'img/logo.svg',
-          href: '/Hackathon-Book/',  // Link logo to base URL
+          href: '/Hackathon-Book',  // Link logo to base URL (without trailing slash)
           target: '_self',
         },
         items: [
@@ -104,19 +104,19 @@ const config = {
             items: [
               {
                 label: 'ROS 2 Nervous System',
-                to: '/modules/ros2-nervous-system',
+                to: '/modules/ros2-nervous-system/',
               },
               {
                 label: 'Digital Twin',
-                to: '/modules/digital-twin',
+                to: '/modules/digital-twin/',
               },
               {
                 label: 'AI-Robot Brain',
-                to: '/modules/ai-robot-brain',
+                to: '/modules/ai-robot-brain/',
               },
               {
                 label: 'Vision-Language-Action',
-                to: '/modules/vla-system',
+                to: '/modules/vla-system/',
               },
             ],
           },

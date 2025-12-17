@@ -18,16 +18,16 @@ This technical book provides hands-on learning experiences with:
 
 The book is organized into 4 educational modules:
 
-### [Module 1: ROS 2 Robotic Nervous System](./modules/ros2-nervous-system/index.md)
+### [Module 1: ROS 2 Robotic Nervous System](./modules/ros2-nervous-system/)
 Learn to implement the communication framework for humanoid robots using ROS 2, including nodes, topics, services, and URDF-based robot descriptions.
 
-### [Module 2: Digital Twin (Gazebo + Unity)](./modules/digital-twin/index.md)
+### [Module 2: Digital Twin (Gazebo + Unity)](./modules/digital-twin/)
 Simulate humanoid robots in virtual environments using Gazebo and Unity with physics-based interactions and sensor simulation.
 
-### [Module 3: AI-Robot Brain (NVIDIA Isaac)](./modules/ai-robot-brain/index.md)
+### [Module 3: AI-Robot Brain (NVIDIA Isaac)](./modules/ai-robot-brain/)
 Implement perception, navigation, and manipulation pipelines using NVIDIA Isaac Sim and Isaac ROS.
 
-### [Module 4: Vision-Language-Action (VLA)](./modules/vla-system/index.md)
+### [Module 4: Vision-Language-Action (VLA)](./modules/vla-system/)
 Integrate vision, speech, and LLMs into ROS 2 pipelines for conversational humanoid robots that interpret commands and act autonomously.
 
 ## Learning Approach
@@ -41,7 +41,7 @@ Each module includes:
 
 ## Getting Started
 
-1. Start with [Module 1: ROS 2 Robotic Nervous System](./modules/ros2-nervous-system/index.md)
+1. Start with [Module 1: ROS 2 Robotic Nervous System](./modules/ros2-nervous-system/)
 2. Follow the setup instructions in the [Quickstart Guide](./quickstart.md)
 3. Complete the learning objectives for each module
 4. Execute the reproducible lab exercises
